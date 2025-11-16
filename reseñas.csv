@@ -1,0 +1,81 @@
+reseña_id;libro_id;cliente_id;calificacion;comentario;fecha_reseña
+1;978-0-13-468599-1;12;5;Excelente libro para entender bases de datos.;2021-03-12
+2;978-0-07-352340-8;4;4;Muy útil para introducirse al big data.;2022-06-18
+3;978-84-376-0494-7;7;5;Una obra maestra de García Márquez.;2020-09-22
+4;978-1-49-192912-2;15;4;Muy completo y bien explicado.;2023-01-03
+5;978-0-59-600920-5;9;5;Indispensable para análisis de datos.;2022-12-11
+6;978-84-663-5341-8;3;4;Muy atrapante y bien narrado.;2021-05-15
+7;978-1-49-204579-1;18;5;Gran explicación sobre sistemas distribuidos.;2023-07-21
+8;978-0-06-231609-7;25;5;Inspirador y profundo.;2020-10-08
+9;978-0-14-044926-6;8;4;Filosofía aplicable al día a día.;2021-12-30
+10;978-84-204-8527-5;10;5;Siempre un clásico para todas las edades.;2022-04-11
+11;978-1-59-327599-0;2;5;Perfecto para quienes comienzan en Python.;2023-02-17
+12;978-0-307-58846-7;33;4;Muy interesante y lleno de ejemplos.;2021-07-26
+13;978-85-508-0460-8;1;5;Excelente introducción al ML.;2023-05-03
+14;978-84-938-4620-5;11;5;Muy recomendable y fácil de leer.;2020-02-10
+15;978-0-525-51823-7;6;5;Un libro que cambia la forma de ver la vida.;2021-08-14
+16;978-1-59327-950-9;14;4;Ideal para seguridad ofensiva.;2022-03-29
+17;978-0-06-245771-4;19;5;Muy motivador e impactante.;2020-11-05
+18;978-84-663-4265-8;28;4;Excelente continuación de la saga.;2021-06-25
+19;978-0-7432-7356-5;37;5;Muy útil para emprendedores.;2023-01-07
+20;978-0-452-28423-4;30;5;Un clásico que nunca decepciona.;2022-09-13
+21;978-1-61-729454-9;22;5;Gran libro sobre DL.;2021-04-16
+22;978-0-14-310595-4;16;3;Me gustó pero algo complejo.;2023-07-01
+23;978-1-59327-992-9;5;4;Muy claro y práctico.;2022-12-08
+24;978-84-664-0542-1;29;5;Una lectura inolvidable.;2021-10-19
+25;978-0-7432-7358-9;20;4;Muy bueno para hábitos diarios.;2020-08-05
+26;978-0-452-28831-7;26;5;Una distopía imperdible.;2022-01-03
+27;978-1-61-729443-3;3;4;Excelente para comenzar con Kafka Streams.;2023-04-29
+28;978-1-25-014405-8;40;5;Divertido y provocador.;2021-11-12
+29;978-84-204-8065-2;17;4;Gran cierre de la saga.;2023-02-24
+30;978-0-15-601219-5;13;5;Muy emotivo e importante.;2020-03-18
+31;978-1-49-205387-1;9;5;Excelente referencia de sistemas distribuidos.;2022-08-14
+32;978-84-9838-137-0;1;5;Historia familiar fascinante.;2020-05-10
+33;978-0-385-07473-3;27;4;Muy recomendado para emprendedores.;2021-09-30
+34;978-1-49-207126-4;31;5;Excelentes patrones de ML.;2023-06-02
+35;978-0-7432-7357-2;14;5;Un clásico del desarrollo personal.;2022-02-16
+36;978-84-670-5504-3;21;4;Una obra monumental.;2021-12-21
+37;978-1-32-400189-1;23;5;Obligatorio para programadores.;2020-04-07
+38;978-0-14-310497-1;18;4;Gran historia y personajes memorables.;2022-10-15
+39;978-1-61-729608-6;35;5;Imprescindible para DL moderno.;2023-03-09
+40;978-0-59-600920-5;7;4;Muy práctico para analistas.;2021-04-20
+41;978-0-13-468599-1;33;5;Excelente referencia universitaria.;2023-01-29
+42;978-84-376-0494-7;2;5;Un clásico latinoamericano imprescindible.;2022-06-11
+43;978-1-49-192912-2;19;4;Buen libro, algo técnico.;2020-10-27
+44;978-0-07-352340-8;10;3;Algo introductorio.;2021-08-30
+45;978-1-59-327599-0;8;4;Muy claro y divertido.;2023-04-03
+46;978-84-204-8527-5;5;5;Un libro mágico.;2022-09-01
+47;978-0-452-28423-4;12;5;Me encantó releerlo.;2020-12-12
+48;978-84-9838-137-0;22;4;Muy atrapante y emotivo.;2021-03-09
+49;978-1-49-205387-1;36;5;Excelente texto técnico.;2023-02-14
+50;978-1-32-400189-1;4;4;Muy útil para proyectos reales.;2022-11-08
+51;978-0-7432-7358-9;6;5;Me ayudó muchísimo.;2021-01-23
+52;978-0-14-044926-6;30;4;Buena introducción filosófica.;2023-05-31
+53;978-1-25-014405-8;39;5;Entretenido y diferente.;2020-06-03
+54;978-84-938-4620-5;16;5;Excelente narrativa histórica.;2021-08-18
+55;978-0-307-58846-7;13;4;Muy interesante.;2022-09-26
+56;978-0-452-28831-7;29;5;Un mensaje muy actual.;2023-01-19
+57;978-1-61-729454-9;3;5;Un gran aporte para DL.;2020-07-24
+58;978-0-59-600920-5;24;4;Muy útil para trabajo diario.;2022-03-11
+59;978-1-59327-992-9;37;5;Excelente enfoque práctico.;2021-10-07
+60;978-85-508-0460-8;18;4;Recomendado para principiantes.;2023-06-14
+61;978-0-7432-7357-2;11;5;Un clásico imperdible.;2021-11-22
+62;978-1-49-207126-4;32;5;Excelente contenido técnico.;2020-09-19
+63;978-0-7432-7356-5;26;5;Gran libro de negocios.;2022-02-25
+64;978-1-49-205387-1;9;5;Recomendado 100%.;2023-05-04
+65;978-84-663-4265-8;38;4;Muy buena historia.;2021-06-01
+66;978-84-204-8065-2;25;5;Excelente final.;2022-12-17
+67;978-0-452-28423-4;4;4;Muy bien escrito.;2020-05-14
+68;978-1-61-729443-3;7;5;Espectacular para streaming.;2021-07-28
+69;978-0-14-310595-4;10;4;Muy recomendable.;2023-02-11
+70;978-84-663-5341-8;6;5;Hermosa novela.;2021-03-03
+71;978-1-59-327599-0;32;5;Gran libro para autodidactas.;2022-08-29
+72;978-1-25-014405-8;21;4;Divertido y profundo.;2023-07-06
+73;978-84-376-0494-7;14;5;Una obra única.;2020-04-15
+74;978-0-307-58846-7;30;4;Interesante perspectiva.;2021-12-09
+75;978-0-7432-7356-5;23;5;Muy aplicable al mundo real.;2022-10-04
+76;978-1-61-729454-9;5;4;Bien explicado.;2020-08-30
+77;978-0-7432-7358-9;40;5;Excelente motivador.;2021-01-15
+78;978-1-61-729608-6;9;5;DL moderno explicado simple.;2023-03-22
+79;978-84-670-5504-3;11;4;Muy completo.;2022-11-14
+80;978-1-49-205387-1;6;5;Muy recomendado.;2023-04-18

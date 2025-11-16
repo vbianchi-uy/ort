@@ -1,0 +1,41 @@
+cliente_id;nombre;apellido;email;telefono;fecha_registro;ciudad;pais
+1;María;González;maria.gonzalez@example.com;+59891234501;2021-03-15;Montevideo;Uruguay
+2;Carlos;Pereira;carlos.pereira@example.com;+59894782345;2020-11-02;Salto;Uruguay
+3;Ana;Martínez;ana.martinez@example.com;+5491138291023;2022-07-21;Buenos Aires;Argentina
+4;Lucas;Rodríguez;lucas.rodriguez@example.com;+56998213455;2023-01-17;Santiago;Chile
+5;Laura;Santana;laura.santana@example.com;+5511992376123;2021-09-05;São Paulo;Brasil
+6;Diego;Fernández;diego.fernandez@example.com;+59899654321;2020-04-10;Paysandú;Uruguay
+7;Sofía;López;sofia.lopez@example.com;+34911233456;2022-10-30;Madrid;España
+8;Bruno;Silva;bruno.silva@example.com;+351912345678;2019-12-01;Lisboa;Portugal
+9;Camila;Ramos;camila.ramos@example.com;+59892671823;2023-02-11;Rocha;Uruguay
+10;Martín;Suárez;martin.suarez@example.com;+5491128374629;2022-06-15;Córdoba;Argentina
+11;Paula;Costa;paula.costa@example.com;+5561982736451;2021-01-14;Brasilia;Brasil
+12;Jorge;Alonso;jorge.alonso@example.com;+525511827364;2020-06-22;Ciudad de México;México
+13;Valentina;Moraes;valentina.moraes@example.com;+59898456372;2022-08-18;Colonia;Uruguay
+14;Esteban;Nuñez;esteban.nunez@example.com;+56973281923;2023-03-25;Concepción;Chile
+15;Patricia;Ruiz;patricia.ruiz@example.com;+34960123456;2020-02-19;Valencia;España
+16;Ignacio;Carmona;ignacio.carmona@example.com;+59897456328;2021-12-07;Maldonado;Uruguay
+17;Daniel;Ortiz;daniel.ortiz@example.com;+5491134528765;2022-04-29;La Plata;Argentina
+18;Teresa;Muñoz;teresa.munoz@example.com;+59892371826;2019-08-14;Durazno;Uruguay
+19;Renato;Almeida;renato.almeida@example.com;+5511982736452;2023-05-19;Río de Janeiro;Brasil
+20;Lucía;Castro;lucia.castro@example.com;+59898641235;2021-09-23;Mercedes;Uruguay
+21;Javier;Cardozo;javier.cardozo@example.com;+59897746321;2022-11-30;Tacuarembó;Uruguay
+22;Carolina;Paz;carolina.paz@example.com;+56991283745;2020-03-17;Valparaíso;Chile
+23;Fabio;Moreira;fabio.moreira@example.com;+351934567890;2021-07-12;Porto;Portugal
+24;Victoria;Reyes;victoria.reyes@example.com;+525513829201;2022-05-03;Guadalajara;México
+25;Adrián;Méndez;adrian.mendez@example.com;+59892134567;2023-01-09;San José;Uruguay
+26;Marta;Cabrera;marta.cabrera@example.com;+34963271823;2020-10-05;Sevilla;España
+27;Eduardo;Gómez;eduardo.gomez@example.com;+5491126384729;2021-06-13;Rosario;Argentina
+28;Daniela;Soler;daniela.soler@example.com;+59899182734;2019-09-28;Florida;Uruguay
+29;Tomás;Arce;tomas.arce@example.com;+56998237461;2022-02-07;Antofagasta;Chile
+30;Gabriela;Vega;gabriela.vega@example.com;+5561992347812;2021-04-20;Recife;Brasil
+31;Marcos;Estévez;marcos.estevez@example.com;+351987654321;2023-06-01;Coímbra;Portugal
+32;Julieta;Ponce;julieta.ponce@example.com;+525516789012;2022-01-11;Monterrey;México
+33;Rodrigo;Correa;rodrigo.correa@example.com;+59893456782;2020-07-14;Las Piedras;Uruguay
+34;Florencia;Arias;florencia.arias@example.com;+59892371825;2021-02-08;Trinidad;Uruguay
+35;Nicolás;Villalba;nicolas.villalba@example.com;+5491128374564;2023-03-14;Mendoza;Argentina
+36;Helena;Santos;helena.santos@example.com;+5511982736453;2022-09-19;Curitiba;Brasil
+37;Andrea;Flores;andrea.flores@example.com;+56982374612;2020-05-26;Iquique;Chile
+38;Sebastián;Lima;sebastian.lima@example.com;+59897462831;2021-11-18;Artigas;Uruguay
+39;Clara;Domínguez;clara.dominguez@example.com;+34962371234;2022-12-23;Bilbao;España
+40;Matías;Barreiro;matias.barreiro@example.com;+59891563742;2023-04-15;Canelones;Uruguay
