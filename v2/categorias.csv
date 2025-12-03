@@ -1,0 +1,11 @@
+categoria_id,nombre,descripcion
+1,Literatura,"Ficción clásica y contemporánea incluyendo novelas, cuentos y obras narrativas."
+2,Infantil,"Libros dirigidos a niños y jóvenes con contenido educativo y recreativo."
+3,Tecnología,"Libros sobre informática, programación, ciencia de datos y tecnologías emergentes."
+4,Negocios,"Publicaciones sobre economía, gestión empresarial, emprendimientos y liderazgo."
+5,Desarrollo Personal,"Libros sobre motivación, bienestar, psicología aplicada y hábitos."
+6,Historia,"Obras relacionadas con eventos históricos, biografías y análisis culturales."
+7,Ciencia,"Libros sobre física, biología, astronomía y divulgación científica."
+8,Educación,"Material académico y pedagógico para estudiantes y docentes."
+9,Programación,"Libros dedicados específicamente a lenguajes y técnicas de programación."
+10,Arte y Humanidades,"Obras de arte, crítica literaria, filosofía y estudios culturales."
